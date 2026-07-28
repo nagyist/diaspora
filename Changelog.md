@@ -5,6 +5,7 @@
 * Drop legacy google analytics integration [#8479](https://github.com/diaspora/diaspora/pull/8479)
 * Drop external services (twitter, tumblr, wordpress) [#8479](https://github.com/diaspora/diaspora/pull/8479)
 * Drop pubsubhubbub [#8479](https://github.com/diaspora/diaspora/pull/8479)
+* Migrate to Zeitwerk autoloader [#8481](https://github.com/diaspora/diaspora/pull/8481)
 
 ## Bug fixes
 
